@@ -1,12 +1,12 @@
 +++
 date = '2025-06-03T01:04:05+08:00'
 draft = false
-title = 'My First Post'
+title = '开始'
 +++
 
-## Introduction
+## 开始
 
-This is **bold** text, and this is *emphasized* text.
+开始
 
-Visit the [Hugo](https://gohugo.io) website!
+
 
