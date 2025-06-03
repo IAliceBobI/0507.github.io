@@ -2,6 +2,7 @@ baseURL = 'https://ialicebobi.github.io/'
 languageCode = 'en-us'
 title = 'alicebob 之家'
 theme = 'ananke'
+timeZone = 'Asia/Shanghai'
 
 [pagination]
   disableAliases = false

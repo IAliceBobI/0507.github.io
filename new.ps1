@@ -1,0 +1,1 @@
+hugo new content "posts/$(Get-Date -Format 'yyyy-MM-dd_HH-mm-ss')/index.md"
