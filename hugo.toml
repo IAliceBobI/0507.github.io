@@ -2,3 +2,15 @@ baseURL = 'https://ialicebobi.github.io/'
 languageCode = 'en-us'
 title = 'alicebob 之家'
 theme = 'ananke'
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
+
+[page]
+  nextPrevInSectionSortOrder = 'desc'
+  nextPrevSortOrder = 'desc'
+
+
+
