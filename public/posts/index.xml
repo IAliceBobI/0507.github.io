@@ -2,25 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on alicebob 之家</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://ialicebobi.github.io/posts/</link>
     <description>Recent content in Posts on alicebob 之家</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 12:27:30 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2025 06 03_12 27 30</title>
-      <link>http://localhost:1313/posts/2025-06-03_12-27-30/</link>
-      <pubDate>Tue, 03 Jun 2025 12:27:30 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-03_12-27-30/</guid>
-      <description>&lt;p&gt;dada&#xA;sd&#xA;asd&#xA;sd&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开始</title>
-      <link>http://localhost:1313/posts/2025-06-03_12-23-54/</link>
-      <pubDate>Tue, 03 Jun 2025 12:23:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-03_12-23-54/</guid>
-      <description>&lt;h2 id=&#34;开始&#34;&gt;开始&lt;/h2&gt;&#xA;&lt;p&gt;开始&lt;/p&gt;&#xA;&lt;p&gt;11&lt;/p&gt;&#xA;&lt;p&gt;asdfasdf&#xA;\asdf&#xA;asd&#xA;fas&#xA;dfasdf&#xA;a&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/%E5%9C%B0%E7%90%83.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ialicebobi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
